@@ -241,7 +241,12 @@
       }
     }
 
-    // Add correct box sizing
+    // Reset box sizing
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
     html {
       -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
