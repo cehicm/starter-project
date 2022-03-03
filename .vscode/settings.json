@@ -1,0 +1,8 @@
+{
+    "pretty-formatter.braceLine": true,
+    "pretty-formatter.braces": true,
+    "pretty-formatter.cssInsertLines": true,
+    "pretty-formatter.elseLine": true,
+    "editor.formatOnSave": true,
+    "prettier.printWidth": 100,
+}
